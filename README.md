@@ -13,3 +13,10 @@ ScreenShot(Virtual Sample Image)
 This Program will be uploaded in the near future.
 
 kubeboard is PaaS(Platform as a Security Service) and focused on DevSecOps tool.(Container Scan, AV, static analytic, runtime check..)
+
+# Features on specific security
+
+1. Container Scanning - Trivy
+2. Static Anlytic - ClamAV
+3. Runtime Check - Sysdig
+4. Data Carving - Scalpel
