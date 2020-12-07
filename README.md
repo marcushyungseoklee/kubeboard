@@ -1,6 +1,11 @@
 # kubeboard
 Managing all Kubernetes cluster and Security Platform serving many DevSecOps tool.
 
+# Main Functions
+
+1 Monigoring : All Deploymented pods security monitoring(Create, Run, Deploy level)
+2 Visualize Audit logs : Analyze and Visualize Kubernetes logs using ELF and kubeaudit)
+
 ScreenShot(Virtual Sample Image)
 ----------
 
@@ -20,3 +25,5 @@ kubeboard is PaaS(Platform as a Security Service) and focused on DevSecOps tool.
 2. Static Anlytic - ClamAV
 3. Runtime Check - Sysdig
 4. Data Carving - Scalpel
+
+5. EFK logging Monitoring and Analyze logs using Machine Learning Platform(using Kubeaudit)
