@@ -3,8 +3,9 @@ Managing all Kubernetes cluster and Security Platform serving many DevSecOps too
 
 # Main Functions
 
-1 Monigoring : All Deploymented pods security monitoring(Create, Run, Deploy level)
-2 Visualize Audit logs : Analyze and Visualize Kubernetes logs using ELF and kubeaudit)
+1 Monigoring : All Deploymented pods security monitoring(Create, Run, Deploy level).
+
+2 Visualize Audit logs : Analyze and Visualize Kubernetes logs using ELF and kubeaudit).
 
 ScreenShot(Virtual Sample Image)
 ----------
